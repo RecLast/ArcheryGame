@@ -29,7 +29,7 @@ PS: Proje **MIT Lisansı** ile sunulmuştur ve dilediğiniz gibi kullanıma aç�
 
 ### Picture
 
-![Github](#)
+![ArcheryGame](https://i.ibb.co/NyzSHn9/1.png)
 
 ### Links
 
